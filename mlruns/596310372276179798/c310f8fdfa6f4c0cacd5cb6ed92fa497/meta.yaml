@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/c310f8fdfa6f4c0cacd5cb6ed92fa497/artifacts
+end_time: 1747022526418
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: c310f8fdfa6f4c0cacd5cb6ed92fa497
+run_name: unleashed-asp-105
+run_uuid: c310f8fdfa6f4c0cacd5cb6ed92fa497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747022526396
+status: 3
+tags: []
+user_id: codespace

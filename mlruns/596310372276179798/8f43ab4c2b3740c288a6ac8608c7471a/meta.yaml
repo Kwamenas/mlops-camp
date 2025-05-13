@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/8f43ab4c2b3740c288a6ac8608c7471a/artifacts
+end_time: 1747170444772
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 8f43ab4c2b3740c288a6ac8608c7471a
+run_name: able-roo-198
+run_uuid: 8f43ab4c2b3740c288a6ac8608c7471a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747170444549
+status: 4
+tags: []
+user_id: codespace

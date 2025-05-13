@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/ededb81feeec4c1e8f6868f1aff04c96/artifacts
+end_time: 1747170566166
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: ededb81feeec4c1e8f6868f1aff04c96
+run_name: angry-turtle-765
+run_uuid: ededb81feeec4c1e8f6868f1aff04c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747170561525
+status: 3
+tags: []
+user_id: codespace

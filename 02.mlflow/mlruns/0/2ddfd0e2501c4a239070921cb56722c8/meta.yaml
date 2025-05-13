@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-camp/02.mlflow/mlruns/0/2ddfd0e2501c4a239070921cb56722c8/artifacts
+end_time: 1747169654650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ddfd0e2501c4a239070921cb56722c8
+run_name: silent-shark-467
+run_uuid: 2ddfd0e2501c4a239070921cb56722c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747169654641
+status: 3
+tags: []
+user_id: codespace

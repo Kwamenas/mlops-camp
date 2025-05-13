@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/abc0a51ceb364d6ca613379530bd18ad/artifacts
+end_time: 1747171149081
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: abc0a51ceb364d6ca613379530bd18ad
+run_name: orderly-mole-621
+run_uuid: abc0a51ceb364d6ca613379530bd18ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747171145654
+status: 3
+tags: []
+user_id: codespace

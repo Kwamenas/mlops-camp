@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/6965cc5e159c47a290ef0657275cd3ab/artifacts
+end_time: 1747077371800
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 6965cc5e159c47a290ef0657275cd3ab
+run_name: tasteful-frog-679
+run_uuid: 6965cc5e159c47a290ef0657275cd3ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077371570
+status: 3
+tags: []
+user_id: codespace

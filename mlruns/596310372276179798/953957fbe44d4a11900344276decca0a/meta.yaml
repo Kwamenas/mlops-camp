@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/953957fbe44d4a11900344276decca0a/artifacts
+end_time: 1747077376937
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 953957fbe44d4a11900344276decca0a
+run_name: auspicious-shrew-167
+run_uuid: 953957fbe44d4a11900344276decca0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077376713
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/abf33febe0a94e66a7dcc3b8340baa2e/artifacts
+end_time: 1747077372478
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: abf33febe0a94e66a7dcc3b8340baa2e
+run_name: blushing-whale-834
+run_uuid: abf33febe0a94e66a7dcc3b8340baa2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077372231
+status: 3
+tags: []
+user_id: codespace

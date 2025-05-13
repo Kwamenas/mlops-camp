@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/91d62d95f8174fef9e05451ca7467f63/artifacts
+end_time: 1747077372684
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 91d62d95f8174fef9e05451ca7467f63
+run_name: overjoyed-grub-599
+run_uuid: 91d62d95f8174fef9e05451ca7467f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077372500
+status: 3
+tags: []
+user_id: codespace

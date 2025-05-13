@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/493ae3a7fe5d4401a9e814963b0a7970/artifacts
+end_time: 1747077366851
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 493ae3a7fe5d4401a9e814963b0a7970
+run_name: unruly-sponge-201
+run_uuid: 493ae3a7fe5d4401a9e814963b0a7970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077366690
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/2d8272dcba0d4ffa90334da6bf5fdb96/artifacts
+end_time: 1747077375480
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 2d8272dcba0d4ffa90334da6bf5fdb96
+run_name: awesome-robin-412
+run_uuid: 2d8272dcba0d4ffa90334da6bf5fdb96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077375345
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/fc2df7143d3b4c1da52f68c426c2b7f8/artifacts
+end_time: 1747077368830
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: fc2df7143d3b4c1da52f68c426c2b7f8
+run_name: smiling-mare-326
+run_uuid: fc2df7143d3b4c1da52f68c426c2b7f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077367764
+status: 3
+tags: []
+user_id: codespace

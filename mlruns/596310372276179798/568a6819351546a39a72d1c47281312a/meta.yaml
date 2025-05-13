@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/568a6819351546a39a72d1c47281312a/artifacts
+end_time: 1747077375323
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 568a6819351546a39a72d1c47281312a
+run_name: sincere-conch-687
+run_uuid: 568a6819351546a39a72d1c47281312a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077375139
+status: 3
+tags: []
+user_id: codespace

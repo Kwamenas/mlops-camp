@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/591ede006fb849ada43b4d6cca2ecc41/artifacts
+end_time: 1747077370140
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 591ede006fb849ada43b4d6cca2ecc41
+run_name: indecisive-mole-462
+run_uuid: 591ede006fb849ada43b4d6cca2ecc41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077369979
+status: 3
+tags: []
+user_id: codespace

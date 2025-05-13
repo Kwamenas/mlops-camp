@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/c2e481d568294a16aa64f79f0902a8bf/artifacts
+end_time: 1747077369660
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: c2e481d568294a16aa64f79f0902a8bf
+run_name: masked-trout-936
+run_uuid: c2e481d568294a16aa64f79f0902a8bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077369510
+status: 3
+tags: []
+user_id: codespace

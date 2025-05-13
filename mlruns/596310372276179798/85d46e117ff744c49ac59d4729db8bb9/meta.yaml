@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/85d46e117ff744c49ac59d4729db8bb9/artifacts
+end_time: 1747077375810
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 85d46e117ff744c49ac59d4729db8bb9
+run_name: bustling-donkey-264
+run_uuid: 85d46e117ff744c49ac59d4729db8bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077375647
+status: 3
+tags: []
+user_id: codespace

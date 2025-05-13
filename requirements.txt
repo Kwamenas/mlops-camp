@@ -6,3 +6,4 @@ matplotlib
 pyarrow
 mlflow
 xgboost
+hyperopt

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/7c1f34fa4538446daada086800c69356/artifacts
+end_time: 1747077372206
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 7c1f34fa4538446daada086800c69356
+run_name: beautiful-snipe-685
+run_uuid: 7c1f34fa4538446daada086800c69356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077371821
+status: 3
+tags: []
+user_id: codespace

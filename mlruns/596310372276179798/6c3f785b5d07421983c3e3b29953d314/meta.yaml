@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/6c3f785b5d07421983c3e3b29953d314/artifacts
+end_time: 1747077365821
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 6c3f785b5d07421983c3e3b29953d314
+run_name: invincible-lark-420
+run_uuid: 6c3f785b5d07421983c3e3b29953d314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077365625
+status: 3
+tags: []
+user_id: codespace

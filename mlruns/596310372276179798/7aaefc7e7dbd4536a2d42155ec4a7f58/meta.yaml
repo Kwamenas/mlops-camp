@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/7aaefc7e7dbd4536a2d42155ec4a7f58/artifacts
+end_time: 1747077365311
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 7aaefc7e7dbd4536a2d42155ec4a7f58
+run_name: polite-sheep-885
+run_uuid: 7aaefc7e7dbd4536a2d42155ec4a7f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077365081
+status: 3
+tags: []
+user_id: codespace

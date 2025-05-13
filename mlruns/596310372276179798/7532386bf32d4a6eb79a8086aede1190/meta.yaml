@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/7532386bf32d4a6eb79a8086aede1190/artifacts
+end_time: 1747077371138
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 7532386bf32d4a6eb79a8086aede1190
+run_name: skittish-goat-775
+run_uuid: 7532386bf32d4a6eb79a8086aede1190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077370922
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/8d17d017659f461fb286d5c78ec2f329/artifacts
+end_time: 1747077366294
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 8d17d017659f461fb286d5c78ec2f329
+run_name: sincere-perch-273
+run_uuid: 8d17d017659f461fb286d5c78ec2f329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077366084
+status: 3
+tags: []
+user_id: codespace

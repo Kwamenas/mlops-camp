@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/99c1506af68e4b428eea74b31ceab4de/artifacts
+end_time: 1747077375626
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 99c1506af68e4b428eea74b31ceab4de
+run_name: salty-perch-564
+run_uuid: 99c1506af68e4b428eea74b31ceab4de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077375510
+status: 3
+tags: []
+user_id: codespace

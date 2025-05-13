@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/d71b9ebff22d4f70a890a1fe342abe4a/artifacts
+end_time: 1747077375117
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: d71b9ebff22d4f70a890a1fe342abe4a
+run_name: wistful-hog-978
+run_uuid: d71b9ebff22d4f70a890a1fe342abe4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077374936
+status: 3
+tags: []
+user_id: codespace

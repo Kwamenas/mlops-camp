@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/26b62b1037454a0c9c6f22d9de8aa5ff/artifacts
+end_time: 1747077370419
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 26b62b1037454a0c9c6f22d9de8aa5ff
+run_name: skillful-ant-986
+run_uuid: 26b62b1037454a0c9c6f22d9de8aa5ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077370168
+status: 3
+tags: []
+user_id: codespace

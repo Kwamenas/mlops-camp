@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/b434c9d4f06945ad8f089e322dd6de5c/artifacts
+end_time: 1747077367245
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: b434c9d4f06945ad8f089e322dd6de5c
+run_name: dazzling-snake-181
+run_uuid: b434c9d4f06945ad8f089e322dd6de5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077367007
+status: 3
+tags: []
+user_id: codespace

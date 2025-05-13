@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/e3c490f0c39b4cd0a048422752cfe267/artifacts
+end_time: 1747077377313
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: e3c490f0c39b4cd0a048422752cfe267
+run_name: mercurial-grouse-409
+run_uuid: e3c490f0c39b4cd0a048422752cfe267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077377168
+status: 3
+tags: []
+user_id: codespace

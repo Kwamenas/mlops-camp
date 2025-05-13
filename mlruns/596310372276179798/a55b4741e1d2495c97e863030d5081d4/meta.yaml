@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/a55b4741e1d2495c97e863030d5081d4/artifacts
+end_time: 1747077374325
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: a55b4741e1d2495c97e863030d5081d4
+run_name: industrious-eel-61
+run_uuid: a55b4741e1d2495c97e863030d5081d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077374122
+status: 3
+tags: []
+user_id: codespace

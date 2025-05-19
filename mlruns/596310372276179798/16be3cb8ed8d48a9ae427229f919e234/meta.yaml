@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/16be3cb8ed8d48a9ae427229f919e234/artifacts
+end_time: 1747695155953
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 16be3cb8ed8d48a9ae427229f919e234
+run_name: enchanting-mole-779
+run_uuid: 16be3cb8ed8d48a9ae427229f919e234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695141691
+status: 3
+tags: []
+user_id: HP

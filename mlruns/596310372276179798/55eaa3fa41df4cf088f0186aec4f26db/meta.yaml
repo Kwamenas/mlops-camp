@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/55eaa3fa41df4cf088f0186aec4f26db/artifacts
+end_time: 1747695169230
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 55eaa3fa41df4cf088f0186aec4f26db
+run_name: spiffy-pug-618
+run_uuid: 55eaa3fa41df4cf088f0186aec4f26db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695162097
+status: 3
+tags: []
+user_id: HP

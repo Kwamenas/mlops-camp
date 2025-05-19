@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/071e028510994b43a55fb7e00a20336d/artifacts
+end_time: 1747694978883
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 071e028510994b43a55fb7e00a20336d
+run_name: serious-loon-315
+run_uuid: 071e028510994b43a55fb7e00a20336d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694978222
+status: 3
+tags: []
+user_id: HP

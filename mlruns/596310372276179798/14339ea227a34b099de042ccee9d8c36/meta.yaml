@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/14339ea227a34b099de042ccee9d8c36/artifacts
+end_time: 1747695003293
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 14339ea227a34b099de042ccee9d8c36
+run_name: unruly-seal-257
+run_uuid: 14339ea227a34b099de042ccee9d8c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695002857
+status: 3
+tags: []
+user_id: HP

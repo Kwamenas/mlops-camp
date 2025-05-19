@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/f2a45b44bd1d462ca6182550918f5cee/artifacts
+end_time: 1747694985244
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: f2a45b44bd1d462ca6182550918f5cee
+run_name: likeable-midge-445
+run_uuid: f2a45b44bd1d462ca6182550918f5cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694984806
+status: 3
+tags: []
+user_id: HP

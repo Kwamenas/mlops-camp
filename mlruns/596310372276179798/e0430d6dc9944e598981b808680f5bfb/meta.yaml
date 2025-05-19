@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/e0430d6dc9944e598981b808680f5bfb/artifacts
+end_time: 1747694718391
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: e0430d6dc9944e598981b808680f5bfb
+run_name: exultant-ram-502
+run_uuid: e0430d6dc9944e598981b808680f5bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694718251
+status: 3
+tags: []
+user_id: HP

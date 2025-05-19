@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/9def88e17d474cae914699f0f5c3e454/artifacts
+end_time: 1747694982641
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 9def88e17d474cae914699f0f5c3e454
+run_name: spiffy-ram-466
+run_uuid: 9def88e17d474cae914699f0f5c3e454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694982130
+status: 3
+tags: []
+user_id: HP

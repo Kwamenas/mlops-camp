@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/0acd4c358844475ea8df1a776fb77419/artifacts
+end_time: 1747694988511
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 0acd4c358844475ea8df1a776fb77419
+run_name: nebulous-sponge-820
+run_uuid: 0acd4c358844475ea8df1a776fb77419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694988130
+status: 3
+tags: []
+user_id: HP

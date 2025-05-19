@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/ffdbb9d0cf5344c19ac230847068e321/artifacts
+end_time: 1747694996875
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: ffdbb9d0cf5344c19ac230847068e321
+run_name: invincible-snail-355
+run_uuid: ffdbb9d0cf5344c19ac230847068e321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694995929
+status: 3
+tags: []
+user_id: HP

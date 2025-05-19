@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/87764d8109e6487ea0664df8a32b3a7c/artifacts
+end_time: 1747695006530
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 87764d8109e6487ea0664df8a32b3a7c
+run_name: abundant-gnat-151
+run_uuid: 87764d8109e6487ea0664df8a32b3a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695005943
+status: 3
+tags: []
+user_id: HP

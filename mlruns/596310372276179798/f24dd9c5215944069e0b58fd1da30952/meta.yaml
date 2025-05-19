@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/f24dd9c5215944069e0b58fd1da30952/artifacts
+end_time: 1747695002670
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: f24dd9c5215944069e0b58fd1da30952
+run_name: upbeat-fawn-946
+run_uuid: f24dd9c5215944069e0b58fd1da30952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695002110
+status: 3
+tags: []
+user_id: HP

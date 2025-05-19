@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/c5a22fa24cbb4406939e10207f02bf80/artifacts
+end_time: 1747695005767
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: c5a22fa24cbb4406939e10207f02bf80
+run_name: agreeable-bee-499
+run_uuid: c5a22fa24cbb4406939e10207f02bf80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695005327
+status: 3
+tags: []
+user_id: HP

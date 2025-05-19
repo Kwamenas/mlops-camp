@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/912d05c95e9e482bb46fecb68e51c9dd/artifacts
+end_time: 1747695141587
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 912d05c95e9e482bb46fecb68e51c9dd
+run_name: popular-ray-512
+run_uuid: 912d05c95e9e482bb46fecb68e51c9dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695136723
+status: 3
+tags: []
+user_id: HP

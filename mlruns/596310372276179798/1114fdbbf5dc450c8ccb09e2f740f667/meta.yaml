@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/1114fdbbf5dc450c8ccb09e2f740f667/artifacts
+end_time: 1747695001925
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 1114fdbbf5dc450c8ccb09e2f740f667
+run_name: righteous-cub-836
+run_uuid: 1114fdbbf5dc450c8ccb09e2f740f667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695001361
+status: 3
+tags: []
+user_id: HP

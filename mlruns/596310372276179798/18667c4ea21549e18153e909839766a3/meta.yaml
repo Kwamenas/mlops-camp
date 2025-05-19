@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/18667c4ea21549e18153e909839766a3/artifacts
+end_time: 1747695204329
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 18667c4ea21549e18153e909839766a3
+run_name: nervous-mare-176
+run_uuid: 18667c4ea21549e18153e909839766a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695196238
+status: 3
+tags: []
+user_id: HP

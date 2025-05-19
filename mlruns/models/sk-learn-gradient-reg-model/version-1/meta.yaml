@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747697078751
+current_stage: None
+description: ''
+last_updated_timestamp: 1747697078751
+name: sk-learn-gradient-reg-model
+run_id: e0d7512371554f29805d400f475f9cb2
+run_link: ''
+source: mlflow-artifacts:/596310372276179798/e0d7512371554f29805d400f475f9cb2/artifacts/gb_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/596310372276179798/e0d7512371554f29805d400f475f9cb2/artifacts/gb_model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/afebd6bdfbb042b7bc39e47e9d11e431/artifacts
+end_time: 1747694979605
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: afebd6bdfbb042b7bc39e47e9d11e431
+run_name: bittersweet-fly-548
+run_uuid: afebd6bdfbb042b7bc39e47e9d11e431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694979060
+status: 3
+tags: []
+user_id: HP

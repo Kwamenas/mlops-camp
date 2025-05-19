@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/4810afb220404ee8b333788b8fb9e718/artifacts
+end_time: 1747695196160
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 4810afb220404ee8b333788b8fb9e718
+run_name: stylish-squid-407
+run_uuid: 4810afb220404ee8b333788b8fb9e718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695191085
+status: 3
+tags: []
+user_id: HP

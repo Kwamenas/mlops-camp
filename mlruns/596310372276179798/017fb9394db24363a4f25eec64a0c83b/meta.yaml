@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/017fb9394db24363a4f25eec64a0c83b/artifacts
+end_time: 1747695007228
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 017fb9394db24363a4f25eec64a0c83b
+run_name: selective-elk-510
+run_uuid: 017fb9394db24363a4f25eec64a0c83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695006693
+status: 3
+tags: []
+user_id: HP

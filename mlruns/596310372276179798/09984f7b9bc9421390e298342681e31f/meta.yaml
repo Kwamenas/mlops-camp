@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/09984f7b9bc9421390e298342681e31f/artifacts
+end_time: 1747695191003
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 09984f7b9bc9421390e298342681e31f
+run_name: indecisive-mare-94
+run_uuid: 09984f7b9bc9421390e298342681e31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747695184164
+status: 3
+tags: []
+user_id: HP

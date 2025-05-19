@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/da37dc23e2484b1ea2ab7dc56a7eed8f/artifacts
+end_time: 1747694981954
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: da37dc23e2484b1ea2ab7dc56a7eed8f
+run_name: nosy-fowl-102
+run_uuid: da37dc23e2484b1ea2ab7dc56a7eed8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747694981541
+status: 3
+tags: []
+user_id: HP

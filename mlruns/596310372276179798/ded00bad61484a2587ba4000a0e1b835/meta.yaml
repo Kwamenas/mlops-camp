@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/ded00bad61484a2587ba4000a0e1b835/artifacts
+end_time: 1747689372683
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: ded00bad61484a2587ba4000a0e1b835
+run_name: fearless-hare-93
+run_uuid: ded00bad61484a2587ba4000a0e1b835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689372538
+status: 3
+tags: []
+user_id: codespace

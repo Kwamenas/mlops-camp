@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/eeaa2f209fc2470586b2242a522e3f36/artifacts
+end_time: 1747687731598
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: eeaa2f209fc2470586b2242a522e3f36
+run_name: powerful-elk-514
+run_uuid: eeaa2f209fc2470586b2242a522e3f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687731390
+status: 3
+tags: []
+user_id: codespace

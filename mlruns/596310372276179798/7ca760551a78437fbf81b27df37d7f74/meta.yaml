@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/7ca760551a78437fbf81b27df37d7f74/artifacts
+end_time: 1747689367462
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 7ca760551a78437fbf81b27df37d7f74
+run_name: bedecked-auk-308
+run_uuid: 7ca760551a78437fbf81b27df37d7f74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689367160
+status: 3
+tags: []
+user_id: codespace

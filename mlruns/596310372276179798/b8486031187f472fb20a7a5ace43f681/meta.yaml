@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/b8486031187f472fb20a7a5ace43f681/artifacts
+end_time: 1747687738371
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: b8486031187f472fb20a7a5ace43f681
+run_name: gregarious-ape-926
+run_uuid: b8486031187f472fb20a7a5ace43f681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687738090
+status: 3
+tags: []
+user_id: codespace

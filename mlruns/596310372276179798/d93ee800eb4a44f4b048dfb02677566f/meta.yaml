@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/d93ee800eb4a44f4b048dfb02677566f/artifacts
+end_time: 1747689368161
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: d93ee800eb4a44f4b048dfb02677566f
+run_name: classy-shad-754
+run_uuid: d93ee800eb4a44f4b048dfb02677566f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689367981
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/30512e6091ba455f9709354b9236c8bd/artifacts
+end_time: 1747689375863
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 30512e6091ba455f9709354b9236c8bd
+run_name: treasured-pig-705
+run_uuid: 30512e6091ba455f9709354b9236c8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689375685
+status: 3
+tags: []
+user_id: codespace

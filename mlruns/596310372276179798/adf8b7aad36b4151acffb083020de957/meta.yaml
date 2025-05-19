@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/adf8b7aad36b4151acffb083020de957/artifacts
+end_time: 1747689376648
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: adf8b7aad36b4151acffb083020de957
+run_name: overjoyed-swan-150
+run_uuid: adf8b7aad36b4151acffb083020de957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689376443
+status: 3
+tags: []
+user_id: codespace

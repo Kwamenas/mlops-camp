@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/fcb2bee19963451d82dbe54c334f8d1f/artifacts
+end_time: 1747687738826
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: fcb2bee19963451d82dbe54c334f8d1f
+run_name: industrious-bird-911
+run_uuid: fcb2bee19963451d82dbe54c334f8d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687738639
+status: 3
+tags: []
+user_id: codespace

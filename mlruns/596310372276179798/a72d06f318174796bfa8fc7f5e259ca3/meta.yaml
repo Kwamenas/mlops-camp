@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/a72d06f318174796bfa8fc7f5e259ca3/artifacts
+end_time: 1747689373199
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: a72d06f318174796bfa8fc7f5e259ca3
+run_name: traveling-foal-296
+run_uuid: a72d06f318174796bfa8fc7f5e259ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689372975
+status: 3
+tags: []
+user_id: codespace

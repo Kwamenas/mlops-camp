@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/efd7c550d6c94161a808c0f3156aedee/artifacts
+end_time: 1747689376017
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: efd7c550d6c94161a808c0f3156aedee
+run_name: unequaled-stoat-933
+run_uuid: efd7c550d6c94161a808c0f3156aedee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689375885
+status: 3
+tags: []
+user_id: codespace

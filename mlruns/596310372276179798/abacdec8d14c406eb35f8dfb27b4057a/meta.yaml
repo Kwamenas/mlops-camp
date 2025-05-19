@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/abacdec8d14c406eb35f8dfb27b4057a/artifacts
+end_time: 1747687740809
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: abacdec8d14c406eb35f8dfb27b4057a
+run_name: puzzled-lark-388
+run_uuid: abacdec8d14c406eb35f8dfb27b4057a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687740505
+status: 3
+tags: []
+user_id: codespace

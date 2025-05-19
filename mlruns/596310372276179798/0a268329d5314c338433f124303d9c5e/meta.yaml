@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/0a268329d5314c338433f124303d9c5e/artifacts
+end_time: 1747687732969
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 0a268329d5314c338433f124303d9c5e
+run_name: dashing-hound-855
+run_uuid: 0a268329d5314c338433f124303d9c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687732743
+status: 3
+tags: []
+user_id: codespace

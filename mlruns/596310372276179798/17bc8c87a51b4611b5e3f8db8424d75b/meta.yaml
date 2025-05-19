@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/17bc8c87a51b4611b5e3f8db8424d75b/artifacts
+end_time: 1747687734025
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 17bc8c87a51b4611b5e3f8db8424d75b
+run_name: abundant-goat-593
+run_uuid: 17bc8c87a51b4611b5e3f8db8424d75b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687733845
+status: 3
+tags: []
+user_id: codespace

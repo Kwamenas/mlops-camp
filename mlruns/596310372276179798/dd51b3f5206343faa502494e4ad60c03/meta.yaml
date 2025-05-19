@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/dd51b3f5206343faa502494e4ad60c03/artifacts
+end_time: 1747689370852
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: dd51b3f5206343faa502494e4ad60c03
+run_name: masked-roo-940
+run_uuid: dd51b3f5206343faa502494e4ad60c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689370628
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/f5a7268c5433432485dabf3b581741eb/artifacts
+end_time: 1747689372515
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: f5a7268c5433432485dabf3b581741eb
+run_name: gentle-bee-999
+run_uuid: f5a7268c5433432485dabf3b581741eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689372273
+status: 3
+tags: []
+user_id: codespace

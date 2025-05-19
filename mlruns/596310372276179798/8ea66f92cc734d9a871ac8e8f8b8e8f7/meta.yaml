@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/8ea66f92cc734d9a871ac8e8f8b8e8f7/artifacts
+end_time: 1747689373558
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 8ea66f92cc734d9a871ac8e8f8b8e8f7
+run_name: skittish-vole-530
+run_uuid: 8ea66f92cc734d9a871ac8e8f8b8e8f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689373222
+status: 3
+tags: []
+user_id: codespace

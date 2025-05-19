@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/cdb4ad4c446d4566ac1879299e7b9252/artifacts
+end_time: 1747687733129
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: cdb4ad4c446d4566ac1879299e7b9252
+run_name: tasteful-ox-39
+run_uuid: cdb4ad4c446d4566ac1879299e7b9252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687733007
+status: 3
+tags: []
+user_id: codespace

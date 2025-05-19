@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/dfd66e5df9754d3087aba18a603069ef/artifacts
+end_time: 1747689374479
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: dfd66e5df9754d3087aba18a603069ef
+run_name: upbeat-bee-143
+run_uuid: dfd66e5df9754d3087aba18a603069ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689374307
+status: 3
+tags: []
+user_id: codespace

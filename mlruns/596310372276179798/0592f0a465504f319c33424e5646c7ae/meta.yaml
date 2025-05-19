@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/0592f0a465504f319c33424e5646c7ae/artifacts
+end_time: 1747689367137
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 0592f0a465504f319c33424e5646c7ae
+run_name: gregarious-gnat-26
+run_uuid: 0592f0a465504f319c33424e5646c7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689366940
+status: 3
+tags: []
+user_id: codespace

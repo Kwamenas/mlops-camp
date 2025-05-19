@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/496a0e2430c648e7888d4f644c394875/artifacts
+end_time: 1747689368525
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 496a0e2430c648e7888d4f644c394875
+run_name: whimsical-koi-893
+run_uuid: 496a0e2430c648e7888d4f644c394875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689368384
+status: 3
+tags: []
+user_id: codespace

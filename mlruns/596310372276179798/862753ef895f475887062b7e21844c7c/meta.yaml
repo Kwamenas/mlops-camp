@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/862753ef895f475887062b7e21844c7c/artifacts
+end_time: 1747687734488
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 862753ef895f475887062b7e21844c7c
+run_name: honorable-newt-995
+run_uuid: 862753ef895f475887062b7e21844c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687734040
+status: 3
+tags: []
+user_id: codespace

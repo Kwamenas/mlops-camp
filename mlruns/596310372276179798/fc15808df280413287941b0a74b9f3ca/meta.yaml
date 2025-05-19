@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/fc15808df280413287941b0a74b9f3ca/artifacts
+end_time: 1747689366921
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: fc15808df280413287941b0a74b9f3ca
+run_name: adaptable-skunk-661
+run_uuid: fc15808df280413287941b0a74b9f3ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689366785
+status: 3
+tags: []
+user_id: codespace

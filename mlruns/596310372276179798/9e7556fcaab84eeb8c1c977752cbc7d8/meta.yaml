@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/9e7556fcaab84eeb8c1c977752cbc7d8/artifacts
+end_time: 1747687732491
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 9e7556fcaab84eeb8c1c977752cbc7d8
+run_name: clean-grouse-398
+run_uuid: 9e7556fcaab84eeb8c1c977752cbc7d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687732161
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/8f05ee92fe794998a910034919de651a/artifacts
+end_time: 1747687747693
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 8f05ee92fe794998a910034919de651a
+run_name: salty-stag-905
+run_uuid: 8f05ee92fe794998a910034919de651a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687743395
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/58ab87ffbbf2427e875db597b71115b7/artifacts
+end_time: 1747689364864
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 58ab87ffbbf2427e875db597b71115b7
+run_name: respected-vole-188
+run_uuid: 58ab87ffbbf2427e875db597b71115b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689364833
+status: 3
+tags: []
+user_id: codespace

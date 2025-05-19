@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/2da4697ef5bd483bb850ef5239eded01/artifacts
+end_time: 1747687738067
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 2da4697ef5bd483bb850ef5239eded01
+run_name: beautiful-hen-621
+run_uuid: 2da4697ef5bd483bb850ef5239eded01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687737866
+status: 3
+tags: []
+user_id: codespace

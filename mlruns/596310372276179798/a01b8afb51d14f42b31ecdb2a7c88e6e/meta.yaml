@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/a01b8afb51d14f42b31ecdb2a7c88e6e/artifacts
+end_time: 1747687731142
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: a01b8afb51d14f42b31ecdb2a7c88e6e
+run_name: monumental-auk-248
+run_uuid: a01b8afb51d14f42b31ecdb2a7c88e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687730962
+status: 3
+tags: []
+user_id: codespace

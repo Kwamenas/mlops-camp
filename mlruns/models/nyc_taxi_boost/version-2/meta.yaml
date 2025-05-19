@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747683244252
+current_stage: None
+description: "nyc taxi predictor model duration \n"
+last_updated_timestamp: 1747683416121
+name: nyc_taxi_boost
+run_id: ededb81feeec4c1e8f6868f1aff04c96
+run_link: ''
+source: mlflow-artifacts:/596310372276179798/ededb81feeec4c1e8f6868f1aff04c96/artifacts/xgb_best_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/596310372276179798/ededb81feeec4c1e8f6868f1aff04c96/artifacts/xgb_best_model
+user_id: null
+version: 2

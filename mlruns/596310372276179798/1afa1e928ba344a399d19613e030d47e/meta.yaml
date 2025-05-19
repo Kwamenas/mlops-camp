@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/1afa1e928ba344a399d19613e030d47e/artifacts
+end_time: 1747687740483
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 1afa1e928ba344a399d19613e030d47e
+run_name: burly-sow-19
+run_uuid: 1afa1e928ba344a399d19613e030d47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687740291
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/37fa8342a47641c0ae086dffef890631/artifacts
+end_time: 1747689365795
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 37fa8342a47641c0ae086dffef890631
+run_name: exultant-panda-918
+run_uuid: 37fa8342a47641c0ae086dffef890631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689365635
+status: 3
+tags: []
+user_id: codespace

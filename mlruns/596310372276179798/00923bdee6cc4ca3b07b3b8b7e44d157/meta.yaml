@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/00923bdee6cc4ca3b07b3b8b7e44d157/artifacts
+end_time: 1747687742983
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 00923bdee6cc4ca3b07b3b8b7e44d157
+run_name: delightful-kit-537
+run_uuid: 00923bdee6cc4ca3b07b3b8b7e44d157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687742724
+status: 3
+tags: []
+user_id: codespace

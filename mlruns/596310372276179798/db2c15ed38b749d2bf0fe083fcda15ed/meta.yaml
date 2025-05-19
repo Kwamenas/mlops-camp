@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/db2c15ed38b749d2bf0fe083fcda15ed/artifacts
+end_time: 1747687735055
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: db2c15ed38b749d2bf0fe083fcda15ed
+run_name: nosy-fox-644
+run_uuid: db2c15ed38b749d2bf0fe083fcda15ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687734890
+status: 3
+tags: []
+user_id: codespace

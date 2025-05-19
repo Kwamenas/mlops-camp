@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/d7be4dbf9cdd4211bc4c30d0b82ccd4c/artifacts
+end_time: 1747687741028
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: d7be4dbf9cdd4211bc4c30d0b82ccd4c
+run_name: caring-carp-708
+run_uuid: d7be4dbf9cdd4211bc4c30d0b82ccd4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687740831
+status: 3
+tags: []
+user_id: codespace

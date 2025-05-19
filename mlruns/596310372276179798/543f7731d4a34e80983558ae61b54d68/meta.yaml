@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/543f7731d4a34e80983558ae61b54d68/artifacts
+end_time: 1747687733323
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 543f7731d4a34e80983558ae61b54d68
+run_name: legendary-bee-186
+run_uuid: 543f7731d4a34e80983558ae61b54d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687733144
+status: 3
+tags: []
+user_id: codespace

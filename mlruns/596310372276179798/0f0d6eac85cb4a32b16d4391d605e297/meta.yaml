@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/0f0d6eac85cb4a32b16d4391d605e297/artifacts
+end_time: 1747689375016
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 0f0d6eac85cb4a32b16d4391d605e297
+run_name: colorful-crab-311
+run_uuid: 0f0d6eac85cb4a32b16d4391d605e297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689374780
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/969a4d3b6f70426cac5e743a4019d3e7/artifacts
+end_time: 1747687736852
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 969a4d3b6f70426cac5e743a4019d3e7
+run_name: wistful-stork-101
+run_uuid: 969a4d3b6f70426cac5e743a4019d3e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687736448
+status: 3
+tags: []
+user_id: codespace

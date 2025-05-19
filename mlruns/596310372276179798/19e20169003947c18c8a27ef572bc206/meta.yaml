@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/19e20169003947c18c8a27ef572bc206/artifacts
+end_time: 1747687739574
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 19e20169003947c18c8a27ef572bc206
+run_name: wise-roo-313
+run_uuid: 19e20169003947c18c8a27ef572bc206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747687739353
+status: 3
+tags: []
+user_id: codespace

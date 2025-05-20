@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/afcc1e4e5b1941e28865635c8f47afdf/artifacts
+end_time: 1747769390082
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: afcc1e4e5b1941e28865635c8f47afdf
+run_name: clean-asp-802
+run_uuid: afcc1e4e5b1941e28865635c8f47afdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769389699
+status: 3
+tags: []
+user_id: HP

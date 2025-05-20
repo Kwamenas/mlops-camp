@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/15c6ca144bf344eb89253e06ca4b6d5a/artifacts
+end_time: 1747769388775
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 15c6ca144bf344eb89253e06ca4b6d5a
+run_name: masked-mole-556
+run_uuid: 15c6ca144bf344eb89253e06ca4b6d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769388482
+status: 3
+tags: []
+user_id: HP

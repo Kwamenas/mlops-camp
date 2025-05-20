@@ -1,5 +1,6 @@
-aliases: {}
+aliases:
+  Challenger: '1'
 creation_timestamp: 1747697078700
 description: ''
-last_updated_timestamp: 1747697078751
+last_updated_timestamp: 1747772710898
 name: sk-learn-gradient-reg-model

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/43b8eeccf7a1476b8d80da6ecf5c4509/artifacts
+end_time: 1747769410579
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 43b8eeccf7a1476b8d80da6ecf5c4509
+run_name: chill-toad-914
+run_uuid: 43b8eeccf7a1476b8d80da6ecf5c4509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769410157
+status: 3
+tags: []
+user_id: HP

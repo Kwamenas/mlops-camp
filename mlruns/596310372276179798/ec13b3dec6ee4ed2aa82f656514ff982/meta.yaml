@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/ec13b3dec6ee4ed2aa82f656514ff982/artifacts
+end_time: 1747769394254
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: ec13b3dec6ee4ed2aa82f656514ff982
+run_name: polite-flea-320
+run_uuid: ec13b3dec6ee4ed2aa82f656514ff982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769393877
+status: 3
+tags: []
+user_id: HP

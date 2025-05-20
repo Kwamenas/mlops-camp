@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/f8a14fa6ebb548b38483d6a0b487ec31/artifacts
+end_time: 1747769389180
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: f8a14fa6ebb548b38483d6a0b487ec31
+run_name: rebellious-fly-224
+run_uuid: f8a14fa6ebb548b38483d6a0b487ec31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769388894
+status: 3
+tags: []
+user_id: HP

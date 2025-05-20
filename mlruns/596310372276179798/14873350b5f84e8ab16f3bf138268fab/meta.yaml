@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/14873350b5f84e8ab16f3bf138268fab/artifacts
+end_time: 1747769529492
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 14873350b5f84e8ab16f3bf138268fab
+run_name: fun-koi-562
+run_uuid: 14873350b5f84e8ab16f3bf138268fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769507967
+status: 3
+tags: []
+user_id: HP

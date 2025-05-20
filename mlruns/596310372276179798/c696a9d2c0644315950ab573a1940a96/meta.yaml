@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/c696a9d2c0644315950ab573a1940a96/artifacts
+end_time: 1747769395117
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: c696a9d2c0644315950ab573a1940a96
+run_name: powerful-frog-226
+run_uuid: c696a9d2c0644315950ab573a1940a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769394814
+status: 3
+tags: []
+user_id: HP

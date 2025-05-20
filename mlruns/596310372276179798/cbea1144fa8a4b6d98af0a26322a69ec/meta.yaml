@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/cbea1144fa8a4b6d98af0a26322a69ec/artifacts
+end_time: 1747769406803
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: cbea1144fa8a4b6d98af0a26322a69ec
+run_name: blushing-cub-934
+run_uuid: cbea1144fa8a4b6d98af0a26322a69ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769406450
+status: 3
+tags: []
+user_id: HP

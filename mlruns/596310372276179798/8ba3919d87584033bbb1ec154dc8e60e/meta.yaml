@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/8ba3919d87584033bbb1ec154dc8e60e/artifacts
+end_time: 1747769388364
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 8ba3919d87584033bbb1ec154dc8e60e
+run_name: overjoyed-steed-918
+run_uuid: 8ba3919d87584033bbb1ec154dc8e60e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769388105
+status: 3
+tags: []
+user_id: HP

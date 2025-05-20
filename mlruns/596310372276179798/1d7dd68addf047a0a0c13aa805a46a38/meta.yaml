@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/1d7dd68addf047a0a0c13aa805a46a38/artifacts
+end_time: 1747769396793
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 1d7dd68addf047a0a0c13aa805a46a38
+run_name: luxuriant-bass-664
+run_uuid: 1d7dd68addf047a0a0c13aa805a46a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769396344
+status: 3
+tags: []
+user_id: HP

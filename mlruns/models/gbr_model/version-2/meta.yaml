@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747769678272
+current_stage: None
+description: ''
+last_updated_timestamp: 1747769678272
+name: gbr_model
+run_id: 16be3cb8ed8d48a9ae427229f919e234
+run_link: ''
+source: mlflow-artifacts:/596310372276179798/16be3cb8ed8d48a9ae427229f919e234/artifacts/sklearn-model_gb
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/596310372276179798/16be3cb8ed8d48a9ae427229f919e234/artifacts/sklearn-model_gb
+user_id: null
+version: 2

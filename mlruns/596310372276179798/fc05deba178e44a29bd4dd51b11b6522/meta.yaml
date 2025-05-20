@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/fc05deba178e44a29bd4dd51b11b6522/artifacts
+end_time: 1747769580687
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: fc05deba178e44a29bd4dd51b11b6522
+run_name: rogue-ray-683
+run_uuid: fc05deba178e44a29bd4dd51b11b6522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769566636
+status: 3
+tags: []
+user_id: HP

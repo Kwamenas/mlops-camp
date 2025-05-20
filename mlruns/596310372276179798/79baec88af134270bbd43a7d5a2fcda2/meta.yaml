@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/79baec88af134270bbd43a7d5a2fcda2/artifacts
+end_time: 1747769587434
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 79baec88af134270bbd43a7d5a2fcda2
+run_name: adaptable-bass-843
+run_uuid: 79baec88af134270bbd43a7d5a2fcda2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769580833
+status: 3
+tags: []
+user_id: HP

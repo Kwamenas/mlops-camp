@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/b220c13423dd4ddbb4aa55dead672e69/artifacts
+end_time: 1747769620912
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: b220c13423dd4ddbb4aa55dead672e69
+run_name: overjoyed-hen-653
+run_uuid: b220c13423dd4ddbb4aa55dead672e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769597349
+status: 3
+tags: []
+user_id: HP

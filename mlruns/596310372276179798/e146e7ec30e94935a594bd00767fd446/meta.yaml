@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/e146e7ec30e94935a594bd00767fd446/artifacts
+end_time: 1747769540291
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: e146e7ec30e94935a594bd00767fd446
+run_name: rebellious-goose-665
+run_uuid: e146e7ec30e94935a594bd00767fd446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769529617
+status: 3
+tags: []
+user_id: HP

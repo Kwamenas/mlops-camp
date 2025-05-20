@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/e0f37a79572143ce890005e4842ed332/artifacts
+end_time: 1747769597080
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: e0f37a79572143ce890005e4842ed332
+run_name: entertaining-hen-546
+run_uuid: e0f37a79572143ce890005e4842ed332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769587654
+status: 3
+tags: []
+user_id: HP

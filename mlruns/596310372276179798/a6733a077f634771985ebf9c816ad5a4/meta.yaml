@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/a6733a077f634771985ebf9c816ad5a4/artifacts
+end_time: 1747769494275
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: a6733a077f634771985ebf9c816ad5a4
+run_name: big-dog-317
+run_uuid: a6733a077f634771985ebf9c816ad5a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769479900
+status: 3
+tags: []
+user_id: HP

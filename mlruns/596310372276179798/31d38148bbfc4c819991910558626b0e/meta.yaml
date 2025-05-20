@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/31d38148bbfc4c819991910558626b0e/artifacts
+end_time: 1747769412888
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 31d38148bbfc4c819991910558626b0e
+run_name: vaunted-cow-555
+run_uuid: 31d38148bbfc4c819991910558626b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769412184
+status: 3
+tags: []
+user_id: HP

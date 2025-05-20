@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/12dba72ef32f49cbac7a3054f4bf897a/artifacts
+end_time: 1747769386208
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 12dba72ef32f49cbac7a3054f4bf897a
+run_name: wistful-elk-161
+run_uuid: 12dba72ef32f49cbac7a3054f4bf897a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769386016
+status: 3
+tags: []
+user_id: HP

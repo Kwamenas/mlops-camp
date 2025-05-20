@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/7215b2383bda42fba189a6859895f21d/artifacts
+end_time: 1747769453633
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 7215b2383bda42fba189a6859895f21d
+run_name: dashing-dolphin-866
+run_uuid: 7215b2383bda42fba189a6859895f21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769439122
+status: 3
+tags: []
+user_id: HP

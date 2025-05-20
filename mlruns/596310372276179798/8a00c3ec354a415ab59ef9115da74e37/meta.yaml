@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/8a00c3ec354a415ab59ef9115da74e37/artifacts
+end_time: 1747769427388
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 8a00c3ec354a415ab59ef9115da74e37
+run_name: bald-wren-901
+run_uuid: 8a00c3ec354a415ab59ef9115da74e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769414429
+status: 3
+tags: []
+user_id: HP

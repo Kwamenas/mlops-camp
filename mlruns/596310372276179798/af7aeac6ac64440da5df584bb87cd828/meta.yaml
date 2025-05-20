@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/af7aeac6ac64440da5df584bb87cd828/artifacts
+end_time: 1747769566554
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: af7aeac6ac64440da5df584bb87cd828
+run_name: delicate-croc-491
+run_uuid: af7aeac6ac64440da5df584bb87cd828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769540412
+status: 3
+tags: []
+user_id: HP

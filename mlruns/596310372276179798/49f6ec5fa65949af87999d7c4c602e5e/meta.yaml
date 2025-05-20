@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/49f6ec5fa65949af87999d7c4c602e5e/artifacts
+end_time: 1747769400006
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 49f6ec5fa65949af87999d7c4c602e5e
+run_name: traveling-mink-158
+run_uuid: 49f6ec5fa65949af87999d7c4c602e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769399651
+status: 3
+tags: []
+user_id: HP

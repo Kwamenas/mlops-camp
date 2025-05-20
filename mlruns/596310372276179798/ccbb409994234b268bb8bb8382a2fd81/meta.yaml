@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/ccbb409994234b268bb8bb8382a2fd81/artifacts
+end_time: 1747769390543
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: ccbb409994234b268bb8bb8382a2fd81
+run_name: suave-yak-416
+run_uuid: ccbb409994234b268bb8bb8382a2fd81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769390196
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/e9b2af50f07740588b210db5cf59a328/artifacts
+end_time: 1747769403044
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: e9b2af50f07740588b210db5cf59a328
+run_name: lyrical-mole-365
+run_uuid: e9b2af50f07740588b210db5cf59a328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769402750
+status: 3
+tags: []
+user_id: HP

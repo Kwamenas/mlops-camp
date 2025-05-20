@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/6ffcd62f7e8c4a2fab006e5581cef709/artifacts
+end_time: 1747769397452
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 6ffcd62f7e8c4a2fab006e5581cef709
+run_name: agreeable-sloth-120
+run_uuid: 6ffcd62f7e8c4a2fab006e5581cef709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769396956
+status: 3
+tags: []
+user_id: HP

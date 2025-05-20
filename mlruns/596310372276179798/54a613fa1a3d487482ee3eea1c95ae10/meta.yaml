@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/54a613fa1a3d487482ee3eea1c95ae10/artifacts
+end_time: 1747769404040
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 54a613fa1a3d487482ee3eea1c95ae10
+run_name: kindly-sponge-567
+run_uuid: 54a613fa1a3d487482ee3eea1c95ae10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769403718
+status: 3
+tags: []
+user_id: HP

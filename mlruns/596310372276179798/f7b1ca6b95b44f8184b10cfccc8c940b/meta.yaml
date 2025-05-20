@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/f7b1ca6b95b44f8184b10cfccc8c940b/artifacts
+end_time: 1747769404540
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: f7b1ca6b95b44f8184b10cfccc8c940b
+run_name: shivering-jay-214
+run_uuid: f7b1ca6b95b44f8184b10cfccc8c940b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769404187
+status: 3
+tags: []
+user_id: HP

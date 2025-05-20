@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/1bf2fb05bd99497288b8570f75cf8caa/artifacts
+end_time: 1747769413593
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 1bf2fb05bd99497288b8570f75cf8caa
+run_name: painted-hound-738
+run_uuid: 1bf2fb05bd99497288b8570f75cf8caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769413086
+status: 3
+tags: []
+user_id: HP

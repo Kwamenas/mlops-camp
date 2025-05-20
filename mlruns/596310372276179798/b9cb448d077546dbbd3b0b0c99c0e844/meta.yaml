@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/b9cb448d077546dbbd3b0b0c99c0e844/artifacts
+end_time: 1747769398987
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: b9cb448d077546dbbd3b0b0c99c0e844
+run_name: dazzling-whale-512
+run_uuid: b9cb448d077546dbbd3b0b0c99c0e844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769398661
+status: 3
+tags: []
+user_id: HP

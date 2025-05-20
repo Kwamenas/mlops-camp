@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/5855dc468e2e451fbc9d3c9f3b68f795/artifacts
+end_time: 1747769411223
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 5855dc468e2e451fbc9d3c9f3b68f795
+run_name: intrigued-midge-744
+run_uuid: 5855dc468e2e451fbc9d3c9f3b68f795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769410776
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/4df8990b3a1444d38acddf6606f22041/artifacts
+end_time: 1747769406304
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: 4df8990b3a1444d38acddf6606f22041
+run_name: exultant-vole-81
+run_uuid: 4df8990b3a1444d38acddf6606f22041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769405906
+status: 3
+tags: []
+user_id: HP

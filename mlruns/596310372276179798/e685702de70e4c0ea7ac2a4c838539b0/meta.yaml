@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/596310372276179798/e685702de70e4c0ea7ac2a4c838539b0/artifacts
+end_time: 1747769398521
+entry_point_name: ''
+experiment_id: '596310372276179798'
+lifecycle_stage: active
+run_id: e685702de70e4c0ea7ac2a4c838539b0
+run_name: sedate-duck-1
+run_uuid: e685702de70e4c0ea7ac2a4c838539b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747769398136
+status: 3
+tags: []
+user_id: HP

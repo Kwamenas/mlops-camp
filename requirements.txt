@@ -7,3 +7,4 @@ pyarrow
 mlflow
 xgboost
 hyperopt
+nbconvert

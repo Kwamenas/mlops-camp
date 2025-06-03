@@ -31,7 +31,7 @@ os.makedirs('data_pre',exist_ok=True)
 
 # # Load the Data
 def read_and_preprocess(year,month):
-    url=f'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_{year}-{month}.parquet'
+    url=f'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_{year:04d}-{month:02d}.parquet'
     df=pd.read_parquet(url)
 
     df['trip_duration_min']=(df['lpep_dropoff_datetime']-df['lpep_pickup_datetime']).dt.total_seconds()/60
@@ -68,7 +68,7 @@ def train_model(X_train,y_train,X_val,y_val,dv):
         f_params={'reg_lambda':0.007269041257774687,
         'min_child_weight':3.7097356295703907,
         'learning_rate':0.24288674966558005,
-        'objective':'reg:linear',
+        'objective': 'reg:squarederror',
         'seed':42,
         'reg_alpha':0.009307293737791112,
         'max_depth':9}
@@ -104,7 +104,7 @@ def run_model(year,month):
     next_month = month +1 if month < 12 else 1
 
     df_val=read_and_preprocess(year=next_year,month=next_month)
-    df_val.to_csv('data_pre/train_data.csv',index=False)
+    df_val.to_csv('data_pre/val_data.csv',index=False)
 
     ##Create X
     X_train,dv=create_X_data(df_train)
@@ -119,3 +119,17 @@ def run_model(year,month):
     print (f"MLflow run_id:{run_id}")   
     return run_id
 
+#Entry Point
+
+if __name__=="__main__":
+    import argparse
+
+    parser=argparse.ArgumentParser(description="Train a model to predict taxi trip duration")
+    parser.add_argument('--year',type=int,required=True, help="Year of the data to train")
+    parser.add_argument('--month',type=int,required=True,help='month of the data to train')
+    args=parser.parse_args()
+
+    run_id=run_model(year=args.year,month=args.month)
+
+    with open('run_id.txt',"w")as f:
+        f.write(run_id)

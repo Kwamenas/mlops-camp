@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/372316085251115290
+creation_time: 1748893635973
+experiment_id: '372316085251115290'
+last_update_time: 1748893635973
+lifecycle_stage: active
+name: pred-nyc
